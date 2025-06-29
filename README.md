@@ -10,7 +10,7 @@
   <a href="https://github.com/NobukiFukumoto">
     <img height="20" src="https://img.shields.io/github/followers/NobukiFukumoto?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.reddit.com/user/yutkat">
+  <a href="https://www.reddit.com/user/sonic32154">
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/sonic32154?label=Reddit&logo=reddit&style=flat" />
   </a>
 </p>
