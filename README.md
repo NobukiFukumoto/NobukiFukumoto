@@ -2,7 +2,6 @@
 
 ### Software engineer
 - I'm currently working on: mobile application
-- I'm currently learning on: Testing
 
 <p align="left">
   <a href="https://github.com/NobukiFukumoto/NobukiFukumoto/">
