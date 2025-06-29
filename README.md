@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**NobukiFukumoto/NobukiFukumoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://github.com/NobukiFukumoto/NobukiFukumoto/">
+    <img src="https://komarev.com/ghpvc/?username=NobukiFukumoto" alt="NobukiFukumoto" />
+  </a>
+  <a href="http://twitter.com/tails_888">
+    <img height="20" src="https://img.shields.io/twitter/follow/tails_888?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/NobukiFukumoto">
+    <img height="20" src="https://img.shields.io/github/followers/NobukiFukumoto?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://www.reddit.com/user/yutkat">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/sonic32154?label=Reddit&logo=reddit&style=flat" />
+  </a>
+</p>
