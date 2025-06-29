@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Fukumoto Nobuki
+
+### Software engineer
 
 <p align="left">
   <a href="https://github.com/NobukiFukumoto/NobukiFukumoto/">
