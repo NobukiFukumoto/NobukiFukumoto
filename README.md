@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Fukumoto Nobuki
 
 ### Project Manager
-- I'm currently working on: web application
+- I'm currently working on: web application and mobile application
 
 ### Software engineer
 - I'm currently working on: mobile application
