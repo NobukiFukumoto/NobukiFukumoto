@@ -47,5 +47,7 @@
     <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
   </a> <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailscss" width="40" height="40"/>
+  </a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
   </a> 
 </p>
