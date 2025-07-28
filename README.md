@@ -45,5 +45,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a> <a href="https://www.sas.com/en_us/home.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg" alt="sas" width="40" height="40"/>
+  </a> <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
   </a> 
 </p>
