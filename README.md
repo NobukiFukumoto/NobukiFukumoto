@@ -49,5 +49,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailscss" width="40" height="40"/>
   </a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
-  </a> 
+  </a> <a href="https://html5.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
+  </a>
 </p>
