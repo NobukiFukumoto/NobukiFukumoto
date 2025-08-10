@@ -51,5 +51,7 @@
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
   </a> <a href="https://html5.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
+  </a> <a href="https://marp.app" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/20685754?s=200&v=4" alt="marp" width="40" height="40"/>
   </a>
 </p>
