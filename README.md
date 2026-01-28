@@ -55,6 +55,8 @@
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
   </a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="csharp" width="40" height="40"/>
+  </a> <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="vitejs" width="40" height="40"/>
   </a>
 </p>
           
