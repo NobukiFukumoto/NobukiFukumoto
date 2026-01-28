@@ -58,7 +58,7 @@
   </a> <a href="https://vite.dev" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="vitejs" width="40" height="40"/>
   </a> <a href="https://vercel.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" alt="vercel" width="40" height="40"/>
   </a> <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer">
     <img src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" alt="ec2" width="40" height="40"/>
   </a>
