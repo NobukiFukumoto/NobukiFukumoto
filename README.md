@@ -23,8 +23,8 @@
 
 ### Languages and Tools
 <p align="left">
-  </a> <a href="https://aws.amazon.com/ec2" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" alt="ec2" width="40" height="40"/>
+  </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/376356/aws.svg" alt="aws" width="40" height="40"/>
   </a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="csharp" width="40" height="40"/>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
