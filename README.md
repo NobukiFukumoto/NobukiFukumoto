@@ -30,7 +30,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <a href="https://orm.drizzle.team" target="_blank" rel="noreferrer">
-    <img src="https://www.streamlinehq.com/icons/download/drizzle--31088" alt="drizzle" width="40" height="40"/> 
+    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/drizzle-1mzfoq5c7kr690ikgxc7td.png/drizzle-8zyz6due3eudtoaydbswu7.png?_a=DATAiZAAZAA0" alt="drizzle" width="40" height="40"/> 
   </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
