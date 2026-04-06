@@ -14,7 +14,7 @@
 
 ---
 
-### 🔗 Connect with me
+### 🔗 Social
 
 <p align="left">
   <a href="http://twitter.com/tails_888">
@@ -90,12 +90,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NobukiFukumoto&show_icons=true&theme=merko&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobukiFukumoto&layout=compact&theme=merko&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NobukiFukumoto&show_icons=true&theme=merko&count_private=true&include_all_commits=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobukiFukumoto&layout=compact&theme=merko"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NobukiFukumoto&theme=merko&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=NobukiFukumoto&theme=merko" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
