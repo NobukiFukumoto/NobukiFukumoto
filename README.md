@@ -90,12 +90,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NobukiFukumoto&show_icons=true&theme=merko&count_private=true&include_all_commits=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobukiFukumoto&layout=compact&theme=merko"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NobukiFukumoto&show_icons=true&theme=merko&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobukiFukumoto&layout=compact&theme=merko&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NobukiFukumoto&theme=merko" />
+  <img src="https://streak-stats.demolab.com?user=NobukiFukumoto&theme=merko&cache_seconds=1800" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
