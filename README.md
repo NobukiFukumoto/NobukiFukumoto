@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4ade80&center=true&vCenter=true&width=500&lines=Building+web+%26+mobile+applications;Data+Scientist+who+ships+full-stack+products;Always+learning+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4ade80&center=true&vCenter=true&width=600&lines=Building+web+%26+mobile+applications;Data+Scientist+who+ships+full-stack+products;Always+learning+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -51,7 +51,6 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/></a>
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href="https://www.r-project.org"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a>
-  <a href="https://html5.org"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
   <a href="https://www.latex-project.org"><img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/></a>
   <a href="https://www.sas.com"><img src="https://img.shields.io/badge/SAS-1E6FAB?style=for-the-badge&logo=sas&logoColor=white"/></a>
 </p>
@@ -83,6 +82,7 @@
 <p>
   <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
   <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/></a>
+  <a href="https://stripe.com"><img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/></a>
   <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
   <a href="https://jwt.io"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/></a>
   <a href="https://marp.app"><img src="https://img.shields.io/badge/Marp-3C3C3C?style=for-the-badge&logo=markdown&logoColor=white"/></a>
