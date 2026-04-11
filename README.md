@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4ade80&center=true&vCenter=true&width=500&lines=Building+web+%26+mobile+applications;Always+learning+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4ade80&center=true&vCenter=true&width=500&lines=Building+web+%26+mobile+applications;Data+Scientist+who+ships+full-stack+products;Always+learning+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -82,9 +82,17 @@
 
 <p>
   <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/></a>
   <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
   <a href="https://jwt.io"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/></a>
   <a href="https://marp.app"><img src="https://img.shields.io/badge/Marp-3C3C3C?style=for-the-badge&logo=markdown&logoColor=white"/></a>
+</p>
+
+**🤖 AI / LLM**
+
+<p>
+  <a href="https://www.anthropic.com/api"><img src="https://img.shields.io/badge/Claude_API-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/></a>
+  <a href="https://ai.google.dev"><img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/></a>
 </p>
 
 ---
